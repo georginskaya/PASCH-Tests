@@ -1,0 +1,43 @@
+
+Can't run because no spec files were found.
+
+We searched for specs matching this glob pattern:
+
+  > C:\Users\GIO006200\Desktop\Testing_cypress\cypress\integration\cmsNewPage.spec.js
+
+Can't run because no spec files were found.
+
+We searched for specs matching this glob pattern:
+
+  > C:\Users\GIO006200\Desktop\Testing_cypress\cmsNewPage.spec.js
+
+Can't run because no spec files were found.
+
+We searched for specs matching this glob pattern:
+
+  > C:\Users\GIO006200\Desktop\Testing_cypress\cypress\integration\cmsNewPage.spec.js
+
+Can't run because no spec files were found.
+
+We searched for specs matching this glob pattern:
+
+  > C:\Users\GIO006200\Desktop\Testing_cypress\cypress\integration\cmsNewPage.spec.js
+
+
+Can't run because no spec files were found.
+
+We searched for specs matching this glob pattern:
+
+  > C:\Users\GIO006200\Desktop\Testing_cypress\cypress\integration\cmsNewPage.spec.js
+
+Can't run because no spec files were found.
+
+We searched for specs matching this glob pattern:
+
+  > C:\Users\GIO006200\Desktop\Testing_cypress\cypress\integration\cmsNewPage.spec.js
+
+Can't run because no spec files were found.
+
+We searched for specs matching this glob pattern:
+
+  > C:\Users\GIO006200\Desktop\Testing_cypress\cypress\integration\cmsNewPage.spec.js
